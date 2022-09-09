@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
-*main - prints string
+*main- prints string
+*Dscription : usint the main function
 *the program prints 'Programming is like building a multilingual puzzle'
-*it returns the value : 0
+*Return : 0
 */
 int main(void)
 {
