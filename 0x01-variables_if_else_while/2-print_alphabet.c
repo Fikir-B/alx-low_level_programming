@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main: entry point
+ * main -entry point
  *
- * Description : main will list a to z
- * return:0
+ * Return: always 0 (sucess)
  */
 int main(void)
 {
