@@ -4,15 +4,13 @@
 
 /**
  * main - starting point
- *
- * Description: using the main function 
+ * Description: using the main function
  * this program prints :
  * Return:0
  */
 int main(void)
 {
 	int n;
-	
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* if the code goes there*/
